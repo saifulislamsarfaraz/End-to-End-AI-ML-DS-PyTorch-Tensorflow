@@ -6,3 +6,4 @@ Author-email: saifulislamsarfaraz@gmail.com
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn
+Requires-Dist: catboost
