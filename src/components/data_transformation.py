@@ -21,7 +21,7 @@ class DataTransformation:
 
     def get_data_transformer_object(self):
         try:
-            numerical_columns = ["writing score", "reading score"]
+            numerical_columns = ["writing_score", "reading_score"]
             categorical_columns = [
                 "gender",
                 "race_ethnicity",
@@ -40,7 +40,7 @@ class DataTransformation:
                 steps=[
                     ("imputer", SimpleImputer(strategy="most_frequent")),
                     ("one_hot_encoder", OneHotEncoder()),
-                    ("scaler", StandardScaler())
+                    ("scaler", StandardScaler(with_mean=False))
                 ]
             )
             logging.info(f"Categorical columns: {categorical_columns}")
@@ -69,9 +69,10 @@ class DataTransformation:
 
             preprocessing_obj = self.get_data_transformer_object()
             target_column_name = "math_score"
-            numerical_columns = ["writing score", "reading score"]
+            numerical_columns = ["writing_score", "reading_score"]
             input_feature_train_df = train_df.drop(columns=[target_column_name], axis=1)
-            target_feature_test_df = train_df[target_column_name]
+            target_feature_train_df = train_df[target_column_name]
+
             input_feature_test_df = test_df.drop(columns=[target_column_name], axis=1)
             target_feature_test_df = test_df[target_column_name]
 
