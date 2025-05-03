@@ -1,0 +1,15 @@
+artifact_uri: file:///media/saif/New%20Volume/GenomeArcDev/MLOps/MLops/MLflowStarter/2-MLproject/mlruns/195242204327695645/38d9b553722642d7832c1183f3fcb89c/artifacts
+end_time: 1746266650508
+entry_point_name: ''
+experiment_id: '195242204327695645'
+lifecycle_stage: active
+run_id: 38d9b553722642d7832c1183f3fcb89c
+run_name: shivering-rat-652
+run_uuid: 38d9b553722642d7832c1183f3fcb89c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746266650375
+status: 4
+tags: []
+user_id: saif

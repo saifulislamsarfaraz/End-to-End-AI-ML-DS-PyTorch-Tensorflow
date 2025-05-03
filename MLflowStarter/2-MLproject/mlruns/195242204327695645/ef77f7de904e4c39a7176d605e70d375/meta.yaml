@@ -1,0 +1,15 @@
+artifact_uri: file:///media/saif/New%20Volume/GenomeArcDev/MLOps/MLops/MLflowStarter/2-MLproject/mlruns/195242204327695645/ef77f7de904e4c39a7176d605e70d375/artifacts
+end_time: 1746266283203
+entry_point_name: ''
+experiment_id: '195242204327695645'
+lifecycle_stage: active
+run_id: ef77f7de904e4c39a7176d605e70d375
+run_name: debonair-seal-668
+run_uuid: ef77f7de904e4c39a7176d605e70d375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746266283126
+status: 4
+tags: []
+user_id: saif

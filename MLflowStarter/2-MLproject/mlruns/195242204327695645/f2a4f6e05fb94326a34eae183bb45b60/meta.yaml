@@ -1,0 +1,15 @@
+artifact_uri: file:///media/saif/New%20Volume/GenomeArcDev/MLOps/MLops/MLflowStarter/2-MLproject/mlruns/195242204327695645/f2a4f6e05fb94326a34eae183bb45b60/artifacts
+end_time: 1746267384312
+entry_point_name: ''
+experiment_id: '195242204327695645'
+lifecycle_stage: active
+run_id: f2a4f6e05fb94326a34eae183bb45b60
+run_name: stately-steed-454
+run_uuid: f2a4f6e05fb94326a34eae183bb45b60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746267366730
+status: 3
+tags: []
+user_id: saif

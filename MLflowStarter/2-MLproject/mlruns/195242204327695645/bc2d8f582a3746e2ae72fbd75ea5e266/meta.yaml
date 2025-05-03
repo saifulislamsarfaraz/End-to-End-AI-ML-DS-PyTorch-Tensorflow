@@ -1,0 +1,15 @@
+artifact_uri: file:///media/saif/New%20Volume/GenomeArcDev/MLOps/MLops/MLflowStarter/2-MLproject/mlruns/195242204327695645/bc2d8f582a3746e2ae72fbd75ea5e266/artifacts
+end_time: 1746266938390
+entry_point_name: ''
+experiment_id: '195242204327695645'
+lifecycle_stage: active
+run_id: bc2d8f582a3746e2ae72fbd75ea5e266
+run_name: righteous-owl-360
+run_uuid: bc2d8f582a3746e2ae72fbd75ea5e266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746266868939
+status: 3
+tags: []
+user_id: saif

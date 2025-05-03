@@ -1,0 +1,15 @@
+artifact_uri: file:///media/saif/New%20Volume/GenomeArcDev/MLOps/MLops/MLflowStarter/2-MLproject/mlruns/399770027367579093/276dcc6b43154c5a959c6fd2d9399c62/artifacts
+end_time: 1746266080527
+entry_point_name: ''
+experiment_id: '399770027367579093'
+lifecycle_stage: active
+run_id: 276dcc6b43154c5a959c6fd2d9399c62
+run_name: silent-roo-71
+run_uuid: 276dcc6b43154c5a959c6fd2d9399c62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746266080461
+status: 4
+tags: []
+user_id: saif

@@ -1,0 +1,15 @@
+artifact_uri: file:///media/saif/New%20Volume/GenomeArcDev/MLOps/MLops/MLflowStarter/2-MLproject/mlruns/399770027367579093/ff69fd2cb6b8490fb28bbb20f4583f10/artifacts
+end_time: 1746266031915
+entry_point_name: ''
+experiment_id: '399770027367579093'
+lifecycle_stage: active
+run_id: ff69fd2cb6b8490fb28bbb20f4583f10
+run_name: illustrious-colt-738
+run_uuid: ff69fd2cb6b8490fb28bbb20f4583f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746266031843
+status: 4
+tags: []
+user_id: saif

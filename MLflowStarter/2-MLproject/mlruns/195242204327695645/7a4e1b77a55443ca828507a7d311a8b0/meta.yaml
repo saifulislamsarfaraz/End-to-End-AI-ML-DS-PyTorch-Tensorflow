@@ -1,0 +1,15 @@
+artifact_uri: file:///media/saif/New%20Volume/GenomeArcDev/MLOps/MLops/MLflowStarter/2-MLproject/mlruns/195242204327695645/7a4e1b77a55443ca828507a7d311a8b0/artifacts
+end_time: 1746267400291
+entry_point_name: ''
+experiment_id: '195242204327695645'
+lifecycle_stage: active
+run_id: 7a4e1b77a55443ca828507a7d311a8b0
+run_name: suave-bear-32
+run_uuid: 7a4e1b77a55443ca828507a7d311a8b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746267384391
+status: 3
+tags: []
+user_id: saif

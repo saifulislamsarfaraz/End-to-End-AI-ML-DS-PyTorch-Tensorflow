@@ -1,0 +1,15 @@
+artifact_uri: file:///media/saif/New%20Volume/GenomeArcDev/MLOps/MLops/MLflowStarter/2-MLproject/mlruns/195242204327695645/d10107071959454bb27b77954696609c/artifacts
+end_time: 1746267416656
+entry_point_name: ''
+experiment_id: '195242204327695645'
+lifecycle_stage: active
+run_id: d10107071959454bb27b77954696609c
+run_name: languid-squid-814
+run_uuid: d10107071959454bb27b77954696609c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746267400393
+status: 3
+tags: []
+user_id: saif
