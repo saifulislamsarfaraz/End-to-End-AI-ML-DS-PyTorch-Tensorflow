@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/777601493240082916/d3edb38b3aa640d6ad02aa502e9ca8e5/artifacts
+end_time: 1745997204573
+entry_point_name: ''
+experiment_id: '777601493240082916'
+lifecycle_stage: active
+run_id: d3edb38b3aa640d6ad02aa502e9ca8e5
+run_name: mercurial-dog-774
+run_uuid: d3edb38b3aa640d6ad02aa502e9ca8e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745997198354
+status: 3
+tags: []
+user_id: saif
