@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/624870602200245323/cb98145249d540f2817ed82afff6f863/artifacts
+end_time: 1745989935805
+entry_point_name: ''
+experiment_id: '624870602200245323'
+lifecycle_stage: active
+run_id: cb98145249d540f2817ed82afff6f863
+run_name: monumental-auk-245
+run_uuid: cb98145249d540f2817ed82afff6f863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745989933998
+status: 3
+tags: []
+user_id: saif
