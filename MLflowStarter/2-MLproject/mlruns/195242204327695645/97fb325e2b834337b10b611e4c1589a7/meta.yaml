@@ -1,0 +1,15 @@
+artifact_uri: file:///media/saif/New%20Volume/GenomeArcDev/MLOps/MLops/MLflowStarter/2-MLproject/mlruns/195242204327695645/97fb325e2b834337b10b611e4c1589a7/artifacts
+end_time: 1746266269057
+entry_point_name: ''
+experiment_id: '195242204327695645'
+lifecycle_stage: active
+run_id: 97fb325e2b834337b10b611e4c1589a7
+run_name: entertaining-yak-566
+run_uuid: 97fb325e2b834337b10b611e4c1589a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746266268992
+status: 4
+tags: []
+user_id: saif

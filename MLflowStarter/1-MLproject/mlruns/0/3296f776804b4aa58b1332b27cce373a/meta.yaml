@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3296f776804b4aa58b1332b27cce373a/artifacts
+end_time: 1746248232957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3296f776804b4aa58b1332b27cce373a
+run_name: sedate-donkey-952
+run_uuid: 3296f776804b4aa58b1332b27cce373a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746248141075
+status: 3
+tags: []
+user_id: saif

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/777601493240082916/e762931d68034bb388744aa9c1a8fa60/artifacts
+end_time: 1745996978134
+entry_point_name: ''
+experiment_id: '777601493240082916'
+lifecycle_stage: active
+run_id: e762931d68034bb388744aa9c1a8fa60
+run_name: serious-dove-620
+run_uuid: e762931d68034bb388744aa9c1a8fa60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745996961075
+status: 3
+tags: []
+user_id: saif

@@ -1,0 +1,15 @@
+artifact_uri: file:///media/saif/New%20Volume/GenomeArcDev/MLOps/MLops/MLflowStarter/2-MLproject/mlruns/195242204327695645/7ee6f6c770054405873944d922c46cce/artifacts
+end_time: 1746266938410
+entry_point_name: ''
+experiment_id: '195242204327695645'
+lifecycle_stage: active
+run_id: 7ee6f6c770054405873944d922c46cce
+run_name: worried-fish-309
+run_uuid: 7ee6f6c770054405873944d922c46cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746266868763
+status: 4
+tags: []
+user_id: saif

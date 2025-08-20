@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/777601493240082916/ef42d210da774d75b59c34a2c53af579/artifacts
+end_time: 1745999210579
+entry_point_name: ''
+experiment_id: '777601493240082916'
+lifecycle_stage: active
+run_id: ef42d210da774d75b59c34a2c53af579
+run_name: inquisitive-cub-768
+run_uuid: ef42d210da774d75b59c34a2c53af579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745999177370
+status: 3
+tags: []
+user_id: saif

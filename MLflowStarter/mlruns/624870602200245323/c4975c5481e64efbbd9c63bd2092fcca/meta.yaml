@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/624870602200245323/c4975c5481e64efbbd9c63bd2092fcca/artifacts
+end_time: 1745989074105
+entry_point_name: ''
+experiment_id: '624870602200245323'
+lifecycle_stage: active
+run_id: c4975c5481e64efbbd9c63bd2092fcca
+run_name: kindly-slug-184
+run_uuid: c4975c5481e64efbbd9c63bd2092fcca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745989073991
+status: 3
+tags: []
+user_id: saif

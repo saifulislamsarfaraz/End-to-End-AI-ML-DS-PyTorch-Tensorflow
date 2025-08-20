@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/624870602200245323/e1d44fedb4ae498ab86bd8f029faf70d/artifacts
+end_time: 1745989931039
+entry_point_name: ''
+experiment_id: '624870602200245323'
+lifecycle_stage: active
+run_id: e1d44fedb4ae498ab86bd8f029faf70d
+run_name: sincere-steed-904
+run_uuid: e1d44fedb4ae498ab86bd8f029faf70d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745989929525
+status: 3
+tags: []
+user_id: saif

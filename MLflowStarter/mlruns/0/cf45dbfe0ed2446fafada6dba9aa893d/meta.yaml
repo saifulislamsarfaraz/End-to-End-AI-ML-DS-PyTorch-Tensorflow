@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cf45dbfe0ed2446fafada6dba9aa893d/artifacts
+end_time: 1746247599027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf45dbfe0ed2446fafada6dba9aa893d
+run_name: delightful-trout-445
+run_uuid: cf45dbfe0ed2446fafada6dba9aa893d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746247598888
+status: 4
+tags: []
+user_id: saif

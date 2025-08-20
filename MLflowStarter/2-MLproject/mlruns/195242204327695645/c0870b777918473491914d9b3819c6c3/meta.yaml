@@ -1,0 +1,15 @@
+artifact_uri: file:///media/saif/New%20Volume/GenomeArcDev/MLOps/MLops/MLflowStarter/2-MLproject/mlruns/195242204327695645/c0870b777918473491914d9b3819c6c3/artifacts
+end_time: 1746266522485
+entry_point_name: ''
+experiment_id: '195242204327695645'
+lifecycle_stage: active
+run_id: c0870b777918473491914d9b3819c6c3
+run_name: clumsy-ape-577
+run_uuid: c0870b777918473491914d9b3819c6c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746266522398
+status: 4
+tags: []
+user_id: saif

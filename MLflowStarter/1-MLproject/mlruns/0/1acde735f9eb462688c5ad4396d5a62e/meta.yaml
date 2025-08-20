@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1acde735f9eb462688c5ad4396d5a62e/artifacts
+end_time: 1746248438120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1acde735f9eb462688c5ad4396d5a62e
+run_name: big-newt-631
+run_uuid: 1acde735f9eb462688c5ad4396d5a62e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746248333471
+status: 3
+tags: []
+user_id: saif

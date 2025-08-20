@@ -1,0 +1,15 @@
+artifact_uri: file:///media/saif/New%20Volume/GenomeArcDev/MLOps/MLops/MLflowStarter/2-MLproject/mlruns/399770027367579093/c076ae689cb44d71937077d96adfc709/artifacts
+end_time: 1746265983478
+entry_point_name: ''
+experiment_id: '399770027367579093'
+lifecycle_stage: active
+run_id: c076ae689cb44d71937077d96adfc709
+run_name: delightful-wolf-189
+run_uuid: c076ae689cb44d71937077d96adfc709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746265983410
+status: 4
+tags: []
+user_id: saif

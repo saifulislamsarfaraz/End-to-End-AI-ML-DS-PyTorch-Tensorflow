@@ -1,1 +1,4 @@
 *.ckpt
+data
+data1
+dataCIFAR

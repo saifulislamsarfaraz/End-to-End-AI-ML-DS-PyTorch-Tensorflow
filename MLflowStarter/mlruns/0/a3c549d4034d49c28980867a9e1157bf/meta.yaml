@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a3c549d4034d49c28980867a9e1157bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3c549d4034d49c28980867a9e1157bf
+run_name: abrasive-cat-237
+run_uuid: a3c549d4034d49c28980867a9e1157bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746247641684
+status: 1
+tags: []
+user_id: saif

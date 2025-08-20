@@ -1,0 +1,15 @@
+artifact_uri: file:///media/saif/New%20Volume/GenomeArcDev/MLOps/MLops/MLflowStarter/2-MLproject/mlruns/195242204327695645/73a5e56348dd4a1189f679ecae5252b3/artifacts
+end_time: 1746266412132
+entry_point_name: ''
+experiment_id: '195242204327695645'
+lifecycle_stage: active
+run_id: 73a5e56348dd4a1189f679ecae5252b3
+run_name: thundering-tern-921
+run_uuid: 73a5e56348dd4a1189f679ecae5252b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746266412105
+status: 4
+tags: []
+user_id: saif

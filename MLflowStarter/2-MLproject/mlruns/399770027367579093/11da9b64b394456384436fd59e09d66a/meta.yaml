@@ -1,0 +1,15 @@
+artifact_uri: file:///media/saif/New%20Volume/GenomeArcDev/MLOps/MLops/MLflowStarter/2-MLproject/mlruns/399770027367579093/11da9b64b394456384436fd59e09d66a/artifacts
+end_time: 1746265949176
+entry_point_name: ''
+experiment_id: '399770027367579093'
+lifecycle_stage: active
+run_id: 11da9b64b394456384436fd59e09d66a
+run_name: nebulous-hound-49
+run_uuid: 11da9b64b394456384436fd59e09d66a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746265949018
+status: 4
+tags: []
+user_id: saif
