@@ -1,0 +1,13 @@
+torch
+transformers
+colivara-py
+Janus
+tqdm
+Pillow
+streamlit
+pdf2image
+fpdf
+requests
+numpy
+python-dotenv
+streamlit-pdf-viewer
