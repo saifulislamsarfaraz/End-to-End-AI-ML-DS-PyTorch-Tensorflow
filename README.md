@@ -1,6 +1,5 @@
 # Machine-Learning
 # Create Project Starter
-#!/bin/bash
 
 # Check if project name is provided
 ```
